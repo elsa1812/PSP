@@ -1,4 +1,4 @@
-package ut2.ejemplos._03StartFrenteRun;
+package Tema2.ejemplos._03StartFrenteRun;
 
 public class StartFrenteRun {
 	public static void main(String[] args) throws InterruptedException {

@@ -1,4 +1,4 @@
-package ut2.ejemplos._02CreacionHilos;
+package Tema2.ejemplos._02CreacionHilos;
 
 public class CreacionHilos1 {
 	// Forma 1: heredar de Thread y escribir lo que hace el hilo en run()

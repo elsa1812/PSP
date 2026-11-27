@@ -1,4 +1,4 @@
-package ut2.ejemplos._02CreacionHilos;
+package Tema2.ejemplos._02CreacionHilos;
 
 public class CreacionHilos2 {
 	// Forma 2: implementar Runnable y dárselo a un Thread

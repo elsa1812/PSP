@@ -1,4 +1,4 @@
-package ut2.ejemplos._02CreacionHilos;
+package Tema2.ejemplos._02CreacionHilos;
 
 public class CreacionHilos3 {
 	// Bloque general final (el main)

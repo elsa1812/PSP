@@ -1,4 +1,4 @@
-package ut2.ejemplos._04DormirEsperarEjecutarEnParalelo;
+package Tema2.ejemplos._04DormirEsperarEjecutarEnParalelo;
 
 import java.util.ArrayList;
 import java.util.List;

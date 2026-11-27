@@ -1,4 +1,4 @@
-package ut2.ejemplos._01PrimerProceso;
+package Tema2.ejemplos._01PrimerProceso;
 
 public class Hola {
 	public static void main(String[] args) {
