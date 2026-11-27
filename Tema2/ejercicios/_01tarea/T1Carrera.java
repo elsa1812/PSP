@@ -1,4 +1,4 @@
-package Tema2._01tarea.T1Carrera;
+package Tema2.ejercicios._01tarea;
 
 import java.util.ArrayList;
 import java.util.List;
